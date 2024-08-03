@@ -67,7 +67,7 @@ Instructions to run the project:
 2. Install the required packages
 3. Run the Jupyter notebook or Python script
 
-Requirements.txt:
+##Requirements 
 pandas
 numpy
 scikit-learn
